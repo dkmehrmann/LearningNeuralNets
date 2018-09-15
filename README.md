@@ -14,6 +14,7 @@ SEO: Deep Learning, AI, Machine Learning, Python, Neural Network, DNN, CNN, RNN
 
 ### Launch Instance
 * Choose My AMIs: `my_DL_image`
+* Instance Type: `p2.xlarge`
 * security group: `my_aws`
 * keypair: `my_aws_real`
 
